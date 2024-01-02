@@ -15,7 +15,7 @@
 
 **Convert the UML diagram to Typescript class. - use number for double**
 
-[UML Diagram](https://github.dev/rvsp/typescript-oops/blob/master/Practice/class-circle.md)
+[UML Diagram](https://github.com/rvsp/typescript-oops/blob/master/images/ClassDiagram_Circle.png)
 
 + create a class named as `Circle`
 + create a constructor and pass  the `Radius` of the circle,`color` of the circle as it's arguments
