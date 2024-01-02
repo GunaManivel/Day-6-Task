@@ -1,6 +1,6 @@
 # Day 6 Task
 
-**1. [Class - Movie]()**
+**1. [Class - Movie](https://github.com/GunaManivel/Day-6-Task/blob/main/movie.js)**
 
 + create a class `Movie`  with the following properties `title,studio,Rating`
 + create a constructor and pass the following arguments such as title of the movie , studio of the movie , Rating of the movie
@@ -11,7 +11,7 @@
 + create a new Array named as `PGmovies` which is used to store the filtered movies by the getPG() method
 + filter the PG rated movies using the `getPG method()` and diplay it  by using the `PGmovies` Array.
 
-**2. [class - circle]()**
+**2. [class - circle](https://github.com/GunaManivel/Day-6-Task/blob/main/circle.js)**
 
 **Convert the UML diagram to Typescript class. - use number for double**
 
@@ -27,7 +27,7 @@
 + creating a new objects of the  class circle
 + calling the methods one by one and display the results
 
-**3. [Write a person class to hold all the details]()**
+**3. [Write a person class to hold all the details](https://github.com/GunaManivel/Day-6-Task/blob/main/person.js)**
 
 + create a class named `person`
 + create a constructor and pass  `FirstName,LastName,Age,Gender,Qualification,Place,DateOfBirth,PhoneNo,EmailId` as it's arguments
@@ -36,7 +36,7 @@
 + create a getter `get Age` for getting the age of the given instance
 + create a setter `set Age` for updating the age of the given instance
 
-**4. [write a class to calculate the Uber price]()**
+**4. [write a class to calculate the Uber price](https://github.com/GunaManivel/Day-6-Task/blob/main/UberPrice.js)**
 
 + create a class named `Uber`
 + create a method `CalculatePrice()` to calculate the price based on the user information
